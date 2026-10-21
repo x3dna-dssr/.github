@@ -33,9 +33,9 @@ As of DSSR v2.0, the command-line executable is licensed and distributed by Colu
 
 For historical reproduction, or for researchers in regions and institutions where obtaining a CTV license is restricted or unavailable due to institutional licensing policies, the pre-licensing release **v1.9.10** (accompanying the 2020 *Nucleic Acids Research* DSSR-PyMOL publication) remains freely downloadable and works well, including with the new DSSR-PyMOL plugin:
 
-* [Linux (x86_64)](https://docs.x3dna-dssr.org/downloads/DSSR-v1.9.10-linux.zip) (`DSSR-v1.9.10-linux.zip`)
-* [macOS](https://docs.x3dna-dssr.org/downloads/DSSR-v1.9.10-macos.zip) (`DSSR-v1.9.10-macOS.zip`)
-* [Windows](https://docs.x3dna-dssr.org/downloads/DSSR-v1.9.10-windows.zip) (`DSSR-v1.9.10-windows.zip`)
+* [Linux (x86_64)](https://docs.x3dna-dssr.org/download.php?pkg=linux) (`DSSR-v1.9.10-linux.zip`)
+* [macOS](https://docs.x3dna-dssr.org/download.php?pkg=macos) (`DSSR-v1.9.10-macos.zip`)
+* [Windows](https://docs.x3dna-dssr.org/download.php?pkg=windows) (`DSSR-v1.9.10-windows.zip`)
 
 *(Note: In addition to the v1.9.10 standalone executables, the registration-free web servers [wDSSR](https://web.x3dna-dssr.org/) and [DSSR-PyMOL schematics](https://skmatic.x3dna-dssr.org/) are globally accessible without regional or licensing restrictions.)*
 
