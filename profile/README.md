@@ -16,6 +16,31 @@ Welcome to the **X3DNA-DSSR** GitHub organization. Supported by NIH/NIGMS grant 
 
 ---
 
+## Obtaining DSSR (Command-Line Executable)
+
+While **wDSSR** offers a registration-free web experience and **dssr-pymol** provides an interactive PyMOL interface, the underlying standalone **DSSR** (`x3dna-dssr`) engine is distributed as a self-contained, high-performance command-line binary for Linux, macOS, and Windows.
+
+### Latest Release: DSSR v2.9.4
+
+Thanks to NIH grant **R24GM153869**, DSSR is provided free of charge to the academic community. DSSR completely supersedes 3DNA v2.4, featuring vastly expanded structural analysis capabilities, context-sensitive base mutation, fiber modeling, and high-throughput JSON output.
+
+* **Academic Users:** Submit an electronic license request for **DSSR** by selecting **"Express Licensing"** on the [Columbia Technology Ventures (CTV) DSSR Portal](http://innovation.columbia.edu/technologies/CU20391).
+* **Commercial Users:** Inquire about pricing and commercial licensing terms by contacting CTV at `techtransfer@columbia.edu`, copying `xiangjun@x3dna.org`.
+* **User Manual:** Download the comprehensive [DSSR User Manual (PDF)](https://docs.x3dna-dssr.org/dssr-manual.pdf).
+* **Video Overview:** Watch the recorded [DSSR Video Overview](https://docs.x3dna-dssr.org/dssr-overview/) for an introduction to core features and algorithms.
+
+### Legacy Pre-Licensing Release: DSSR v1.9.10
+
+For historical reproduction, or for researchers in regions and institutions where obtaining a CTV license is restricted or unavailable due to institutional licensing policies, the pre-licensing release **v1.9.10** (accompanying the 2020 *Nucleic Acids Research* DSSR-PyMOL publication) remains freely downloadable and works well, including with the new DSSR-PyMOL plugin:
+
+* [Linux (x86_64)](https://docs.x3dna-dssr.org/downloads/DSSR-v1.9.10-linux.zip) (`DSSR-v1.9.10-linux.zip`)
+* [macOS](https://docs.x3dna-dssr.org/downloads/DSSR-v1.9.10-macos.zip) (`DSSR-v1.9.10-macOS.zip`)
+* [Windows](https://docs.x3dna-dssr.org/downloads/DSSR-v1.9.10-windows.zip) (`DSSR-v1.9.10-windows.zip`)
+
+*(Note: In addition to the v1.9.10 standalone executables, the registration-free web servers [wDSSR](https://web.x3dna-dssr.org/) and [DSSR-PyMOL schematics](https://skmatic.x3dna-dssr.org/) are globally accessible without regional or licensing restrictions.)*
+
+---
+
 ## Repositories & Tools
 
 ### Active & Modern Platforms
