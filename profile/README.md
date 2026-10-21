@@ -22,9 +22,9 @@ While **wDSSR** offers a registration-free web experience and **dssr-pymol** pro
 
 ### Latest Release: DSSR v2.9.4
 
-Thanks to NIH grant **R24GM153869**, DSSR is provided free of charge to the academic community. DSSR completely supersedes 3DNA v2.4, featuring vastly expanded structural analysis capabilities, context-sensitive base mutation, fiber modeling, and high-throughput JSON output.
+As of DSSR v2.0, the command-line executable is licensed and distributed by Columbia Technology Ventures (CTV, CU20391). Our goal is to keep DSSR always available to academic users. DSSR completely supersedes 3DNA v2.4, featuring vastly expanded structural analysis capabilities, context-sensitive base mutation, fiber modeling, and high-throughput JSON output.
 
-* **Academic Users:** Submit an electronic license request for **DSSR** by selecting **"Express Licensing"** on the [Columbia Technology Ventures (CTV) DSSR Portal](http://innovation.columbia.edu/technologies/CU20391).
+* **Academic Users:** Submit an electronic license request for **DSSR** by selecting **"Express Licensing"** on the [Columbia Technology Ventures (CTV) DSSR Portal](https://innovation.columbia.edu/technologies/CU20391).
 * **Commercial Users:** Inquire about pricing and commercial licensing terms by contacting CTV at `techtransfer@columbia.edu`, copying `xiangjun@x3dna.org`.
 * **User Manual:** Download the comprehensive [DSSR User Manual (PDF)](https://docs.x3dna-dssr.org/dssr-manual.pdf).
 * **Video Overview:** Watch the recorded [DSSR Video Overview](https://docs.x3dna-dssr.org/dssr-overview/) for an introduction to core features and algorithms.
@@ -54,7 +54,7 @@ For historical reproduction, or for researchers in regions and institutions wher
 
 ---
 
-## Community, Support & Documentation
+## Community & Support
 
 * **Central Forum:** Visit [GitHub Discussions](https://github.com/orgs/x3dna-dssr/discussions) to ask questions, report unexpected results, and share ideas across all tools.
 * **Legacy Archive:** Historical forum threads (2011–2026) remain searchable at the read-only [3DNA Forum](http://forum.x3dna.org/).
