@@ -27,7 +27,7 @@ As of DSSR v2.0, the command-line executable is licensed and distributed by Colu
 * **Academic Users:** Submit an electronic license request for **DSSR** by selecting **"Express Licensing"** on the [Columbia Technology Ventures (CTV) DSSR Portal](https://innovation.columbia.edu/technologies/CU20391).
 * **Commercial Users:** Inquire about pricing and commercial licensing terms by contacting CTV at `techtransfer@columbia.edu`, copying `xiangjun@x3dna.org`.
 * **User Manual:** Download the comprehensive [DSSR User Manual (PDF)](https://docs.x3dna-dssr.org/dssr-manual.pdf).
-* **Video Overview:** Watch the recorded [DSSR Video Overview](https://docs.x3dna-dssr.org/dssr-overview/) for an introduction to core features and algorithms.
+* **Video Overview:** Watch the recorded [DSSR Video Overview](https://youtu.be/5SJxjBDob9U) on YouTube for an introduction to core features and algorithms.
 
 ### Legacy Pre-Licensing Release: DSSR v1.9.10
 
